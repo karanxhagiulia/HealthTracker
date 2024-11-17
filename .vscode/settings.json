@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/f4f56a69-dd59-4b67-9964-f6b42588710f/resourceGroups/HealthTrackerApp01/providers/Microsoft.Web/sites/HealthTrackerApp01",
+    "appService.deploySubpath": "."
+}
